@@ -2,7 +2,7 @@
 
 ## I'm a Full-Stack Developer
 
-- 🔭 I've recently completed the [`</salt>`][salt] - Bootcamp!
+- 🔭 I've recently completed the [`</salt>`][salt] - Bootcamp
 - 🌱 I’m currently learning everything 🤣
 - 🥅 Current goals: Continue to improve everyday, and contribute to open-source.
 - ⚡ Fun fact: I love playing video games and music.
