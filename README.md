@@ -4,7 +4,7 @@
 
 - 🔭 I've recently completed the [`</salt>`][salt] - Bootcamp
 - 🌱 I’m currently learning everything 🤣
-- 🥅 Current goals: Continue to improve everyday, and contribute to open-source.
+- 🥅 Current goals: Continue to improve everyday, and start contributing to open-source.
 - ⚡ Fun fact: I love playing video games and creating music.
 
 ### Connect with me:
@@ -17,7 +17,6 @@
 ---
 
 ![KrizpCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrizpCode&theme=radical&show_icons=true&hide_border=true")
-)
 
 [website]: https://johan-eriksson.vercel.app/
 [salt]: https://salt.study/
