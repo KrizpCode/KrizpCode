@@ -21,7 +21,7 @@
 
   <img align="left" alt="KrizpCode's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=KrizpCode&show_icons=true&hide_border=true" />
 
-[![KrizpCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrizpCode)](https://github.com/KrizpCode/github-readme-stats)
+![KrizpCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrizpCode&hide=contribs,prs)
 
 </details>
 
