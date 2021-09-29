@@ -5,7 +5,7 @@
 - 🔭 I've recently completed the [`</salt>`][salt] - Bootcamp
 - 🌱 I’m currently learning everything 🤣
 - 🥅 Current goals: Continue to improve everyday, and contribute to open-source.
-- ⚡ Fun fact: I love playing video games and music.
+- ⚡ Fun fact: I love playing video games and creating music.
 
 ### Connect with me:
 
@@ -20,6 +20,8 @@
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="KrizpCode's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=KrizpCode&show_icons=true&hide_border=true" />
+
+[![KrizpCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrizpCode)](https://github.com/KrizpCode/github-readme-stats)
 
 </details>
 
