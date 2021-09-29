@@ -16,7 +16,7 @@
 
 ---
 
-![KrizpCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrizpCode&show_icons=true&hide_border=true")
+![KrizpCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrizpCode&theme=radical&show_icons=true&hide_border=true")
 )
 
 [website]: https://johan-eriksson.vercel.app/
